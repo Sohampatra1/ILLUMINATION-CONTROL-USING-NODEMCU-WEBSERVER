@@ -1,2 +1,3 @@
 # ILLUMINATION-CONTROL-USING-NODEMCU-WEBSERVER
 Our Mini-Project aims at building an ESP8266 NodeMCU Web Server with a slider to perform various operations (Illumination Control) on a LED Lamp thereby replacing the common method and making the process way more user friendly than what it used to be and more appropriately making the entire process wireless.
+ <br />Our proposed system has been designed to control the duty cycle of a PWM Signal and control the brightness of LED Lamp. The LED can also be replaced by a Servo Motor but the overall process remains the same. Our Mini Project therefore acts as a threshold which can be further implemented to perform more complex activities 
